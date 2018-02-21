@@ -83,7 +83,7 @@ public class FightingPit {
             if(actualDamage < damageDealt){
                 System.out.println("Amazing dodge! " + fighterOne + " only took " + actualDamage);
             } else {
-                System.out.println("Crushing! " + fighterTwo + " actually took " + actualDamage + " from that one!");
+                System.out.println("Crushing! " + fighterOne + " actually took " + actualDamage + " from that one!");
             }
             System.out.println();
 
